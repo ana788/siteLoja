@@ -1,6 +1,7 @@
 # Site de Papelaria Fictícia
 
 ⚠️ Projeto em desenvolvimento
+
 A LandingPage foi desenvolvida junto à videoaula do canal do youtube 'CrisTech' somada à adaptação pessoal.
 
 <div align="center">
